@@ -6,7 +6,7 @@ import arrow from "../../assets/arrow_icon.png";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <img src={logo} alt="logo" />
+      <img src={logo} alt="logo" className="logo" />
       <ul>
         <li>Home</li>
         <li>Features</li>
