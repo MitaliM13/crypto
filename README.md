@@ -17,7 +17,7 @@
 - **useContext API** – For global state management
 - **React Chart.js 2** – For rendering dynamic coin price charts
 - **CoinGecko API** – For live crypto market data
-- **CSS ** – For styling components
+- **CSS** – For styling components
 
 ---
 
