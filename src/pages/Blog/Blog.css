@@ -1,0 +1,88 @@
+.blog {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+  }
+  
+  .intro {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .intro .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #e0e0ff;
+  }
+  
+  .intro img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    border: 2px solid #1a1a40;
+  }
+  
+  .intro h4 {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #ccccdd;
+    padding: 0 1rem;
+  }
+  
+  .title {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+    color: #ffda85;
+  }
+  
+  .para1,
+  .features,
+  .popular,
+  .usecase,
+  .safety,
+  .final {
+    margin-bottom: 2rem;
+    line-height: 1.7;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+  
+  li {
+    margin-bottom: 0.8rem;
+    position: relative;
+    padding-left: 1.5rem;
+    color: #e8e8ff;
+  }
+  
+  li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #ffda85;
+    font-size: 1.2rem;
+    top: 0;
+  }
+  
+  strong {
+    color: #ffda85;
+  }
+  
+  .safety h2,
+  .final h3 {
+    font-size: 1.5rem;
+    color: #e0e0ff;
+    margin-bottom: 0.8rem;
+  }
+  
