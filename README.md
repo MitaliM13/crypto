@@ -1,6 +1,6 @@
-# 🚀 CryptoPulse — Real-Time Cryptocurrency Tracker
+# 🚀 CryptoPlace — Real-Time Cryptocurrency Tracker
 
-**CryptoPulse** is a responsive and modern cryptocurrency tracking web application that allows users to monitor real-time crypto market trends, view detailed coin statistics, and stay updated with live prices — all in one place.
+**CryptoPlace** is a responsive and modern cryptocurrency tracking web application that allows users to monitor real-time crypto market trends, view detailed coin statistics, and stay updated with live prices — all in one place.
 
 ---
 
@@ -39,3 +39,6 @@ CoinGecko API – Free and open-source crypto data API for market charts, prices
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
+🙌 Credits
+This project was originally inspired by the YouTube tutorial from GreatStack.
+I have extended the project with my own updates, including new features, design enhancements, and component restructuring.
